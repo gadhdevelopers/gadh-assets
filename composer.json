@@ -1,0 +1,20 @@
+{
+    "name": "gadh/assets",
+    "description": "les libraires css de la mission gadh",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Adorons-Dieu",
+            "email": "dvdjesusvit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Gadh\\Assets\\": "src/"
+        }
+    }
+}
