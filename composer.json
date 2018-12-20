@@ -9,7 +9,9 @@
             "email": "dvdjesusvit@gmail.com"
         }
     ],
+
     "minimum-stability": "dev",
+    
     "require": {},
 
     "autoload": {
