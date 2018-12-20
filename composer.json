@@ -16,5 +16,13 @@
         "psr-4": {
             "Gadh\\Assets\\": "src/"
         }
-    }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gadh\\Assets\\AssetsServiceProvider"
+            ]
+        }
+    },
 }
