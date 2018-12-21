@@ -10,7 +10,7 @@
         }
     ],
 
-    "minimum-stability": "dev",
+    "minimum-stability": "v1.0.2",
     
     "require": {},
 
