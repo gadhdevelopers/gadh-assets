@@ -1,6 +1,6 @@
 {
     "name": "gadh/assets",
-    "description": "les libraires css de la mission gadh",
+    "description": "les librairies css de la mission gadh",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,10 @@
 
     "minimum-stability": "dev",
     
-    "require": {},
+    "require": {
+        "php": "^7.1.3",
+        "laravel/framework": "~5.7.7",
+    },
 
     "autoload": {
         "psr-4": {
